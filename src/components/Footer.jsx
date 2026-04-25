@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <h3 className="footer-logo font-serif">Aura</h3>
+            <h3 className="footer-logo font-serif">Backyard</h3>
             <p className="footer-tagline">Elevating the coffee experience, one cup at a time.</p>
             <div className="social-links">
               <a href="#" className="social-icon"><Camera size={20} /></a>
@@ -47,7 +47,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Aura Café. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Backyard Café. All rights reserved.</p>
           <div className="footer-legal">
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>

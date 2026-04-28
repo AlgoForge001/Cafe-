@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className="navbar-container container">
         <a href="#" className="navbar-logo">
           <Coffee size={28} className="logo-icon" />
-          <span className="font-serif">Backyard</span>
+          <span className="font-serif">Cafe_name</span>
         </a>
 
         <ul className="navbar-links desktop-only">

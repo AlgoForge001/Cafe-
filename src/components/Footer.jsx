@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <h3 className="footer-logo font-serif">Backyard</h3>
+            <h3 className="footer-logo font-serif">Cafe_name</h3>
             <p className="footer-tagline">Elevating the coffee experience, one cup at a time.</p>
             <div className="social-links">
               <a href="#" className="social-icon"><Camera size={20} /></a>
